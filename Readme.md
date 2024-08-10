@@ -1,8 +1,8 @@
 # commands 
 
 ```
-brew install kubectl
-brew install minikube
+Install minikube
+Install Kubectl
 ```
 ++++++++++++++++++++++++++++++++++++++
 ```
